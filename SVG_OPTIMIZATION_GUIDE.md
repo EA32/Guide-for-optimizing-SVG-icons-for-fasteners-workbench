@@ -12,9 +12,24 @@ In opened window select next options:
 
 That must decrease size of *.svg file to 40-60%.
 
-## 2. Use one solid contur instead fill instrument
+## 2. Use one solid contour instead fill instrument
 
-## 3. Remove garbage tags by XML viwer
+## 3. Remove garbage tags by XML Editor
 
+![image](https://user-images.githubusercontent.com/116030160/198841682-7f796d4b-cdee-4a38-b917-e06648cd89ed.png)
+
+Remove unneeded attributes too. Like sodipodi, font attributes etc...
+
+## 4. Simplify curve paths
+
+Select curve and press **CTRL+G** or menu item **Path → Simplify** 
+
+## 5. Join paths
+
+Switch to "Edit paths by nodes" mode by pressing ![image](https://user-images.githubusercontent.com/116030160/198841313-97c477a8-d142-43ae-813f-de114027b559.png)
+ button or press **N key** on keyboard.
+Select two separated paths. Down CTRL key and select two points where paths are connected.
+Press ![image](https://user-images.githubusercontent.com/116030160/198841498-1a7af5a2-24af-495d-aa65-34f2d0ae18ee.png)
+ button to join paths.
 
 
